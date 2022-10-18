@@ -7,26 +7,26 @@
 * Без аннотации: 279
 * Схожесть РНК:
 
+### Query: TOL_0319 16S ribosomal RNA
 |query acc.ver| subject acc.ver| % identity|
 |-------------|----------------|-----------|
-|Query: TOL_0319 16S ribosomal RNA|
 |TOL_0319|scaffold39_cov590|100.000|	
-TOL_0319	scaffold1_cov231	100.000	
+|TOL_0319|scaffold1_cov231|100.000|	
 
-# Query: TOL_0322 23S ribosomal RNA
-TOL_0322	scaffold49_cov582	100.000	
-TOL_0322	scaffold46_cov598	100.000
-TOL_0322	scaffold54_cov615	100.000	
+### Query: TOL_0322 23S ribosomal RNA
+|TOL_0322|	scaffold49_cov582|	100.000|	
+|TOL_0322|	scaffold46_cov598|	100.000|
+|TOL_0322|	scaffold54_cov615|	100.000|
 
-# Query: TOL_0323 5S ribosomal RNA
-TOL_0323	scaffold49_cov582	100.000	
-TOL_0323	scaffold1_cov231	100.000	
+### Query: TOL_0323 5S ribosomal RNA
+|TOL_0323|	scaffold49_cov582|	100.000|	
+|TOL_0323|	scaffold1_cov231|	100.000|	
 
-# Query: TOL_2453 5S ribosomal RNA
-TOL_2453	scaffold49_cov582	98.990	
-TOL_2453	scaffold1_cov231	96.667
+### Query: TOL_2453 5S ribosomal RNA
+|TOL_2453|	scaffold49_cov582|	98.990|	
+|TOL_2453|	scaffold1_cov231|	96.667|
 
-# Query: TOL_2454 23S ribosomal RNA
+### Query: TOL_2454 23S ribosomal RNA
 TOL_2454	scaffold49_cov582	100.000	
 TOL_2454	scaffold46_cov598	100.000	
 TOL_2454	scaffold54_cov615	100.000
