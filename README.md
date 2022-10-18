@@ -7,10 +7,10 @@
 * Без аннотации: 279
 * Схожесть РНК:
 
-# Fields: query acc.ver, subject acc.ver, % identity
-
-# Query: TOL_0319 16S ribosomal RNA
-TOL_0319	scaffold39_cov590	100.000	
+|query acc.ver| subject acc.ver| % identity|
+|-------------|----------------|-----------|
+|Query: TOL_0319 16S ribosomal RNA|
+|TOL_0319|scaffold39_cov590|100.000|	
 TOL_0319	scaffold1_cov231	100.000	
 
 # Query: TOL_0322 23S ribosomal RNA
