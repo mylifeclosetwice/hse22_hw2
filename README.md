@@ -1,5 +1,7 @@
 # hse22_hw2
 Кочеткова Ирина Игоревна (группа 4)
+## Ссылка на тетрадку:
+https://colab.research.google.com/drive/1hfqKYrcGa5-4eNe0SX0g32Rh9aWyOfH2?usp=sharing
 ## Статистика:
 * Предсказано генов: 3613
 * Аннотации в сравнении с бактерией MIL-1: 3334
